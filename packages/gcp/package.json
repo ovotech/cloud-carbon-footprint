@@ -41,14 +41,14 @@
     "lint:fix": "eslint '*/**/*.ts' --quiet --fix"
   },
   "dependencies": {
-    "@cloud-carbon-footprint/common": "^1.7.0",
-    "@cloud-carbon-footprint/core": "^0.16.1",
-    "@google-cloud/bigquery": "^5.9.3",
-    "@google-cloud/monitoring": "^2.3.5",
-    "@google-cloud/recommender": "^4.2.5",
-    "@google-cloud/resource-manager": "^3.0.0",
-    "google-gax": "^2.29.0",
-    "googleapis": "^96.0.0",
+    "@cloud-carbon-footprint/common": "2.0.0",
+    "@cloud-carbon-footprint/core": "1.0.0",
+    "@google-cloud/bigquery": "8.0.0",
+    "@google-cloud/monitoring": "4.0.0",
+    "@google-cloud/recommender": "6.0.0",
+    "@google-cloud/resource-manager": "5.0.0",
+    "google-gax": "4.3.7",
+    "googleapis": "150.0.1",
     "moment": "^2.29.1"
   },
   "devDependencies": {
