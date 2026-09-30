@@ -41,8 +41,8 @@
     "lint:fix": "eslint '*/**/*.ts' --quiet --fix"
   },
   "dependencies": {
-    "@cloud-carbon-footprint/common": "^1.6.0",
-    "@cloud-carbon-footprint/core": "^0.16.1",
+    "@cloud-carbon-footprint/common": "2.0.0",
+    "@cloud-carbon-footprint/core": "1.0.0",
     "moment": "^2.29.1"
   },
   "devDependencies": {
